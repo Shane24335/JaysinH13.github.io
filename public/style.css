@@ -1,0 +1,10 @@
+html {
+    height: 100%;
+    background-image: url(https://resources.owllabs.com/hs-fs/hubfs/astronomy-1867616_1920-jpg.jpeg?width=890&name=astronomy-1867616_1920-jpg.jpeg);
+    background-size: cover;
+    background-position: center;
+  }
+h1 {
+  text-align: center;
+  color: azure;
+}
