@@ -7,10 +7,12 @@ html {
 h1 {
   text-align: center;
   color: azure;
+  font-family: monospace;
 }
 p {
   text-align: center;
   color: azure;
+  font-family: monospace;
 }
 * {box-sizing:border-box}
 
